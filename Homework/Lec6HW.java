@@ -1,3 +1,5 @@
+package homework;
+
 public class Lec6HW {
 
     // --- Pattern 1: Prints 'x' ---
@@ -42,7 +44,7 @@ public class Lec6HW {
             }
             // Print Column Number 'k'
             for (int k = 1; k <= i; k++) {
-                
+
                 System.out.print(k + " ");
             }
             System.out.println();

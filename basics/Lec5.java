@@ -1,6 +1,8 @@
+package basics;
+
 import java.util.Scanner;
 
-public class lec5 {
+public class Lec5 {
 
     // *
     // * * *
