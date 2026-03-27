@@ -1,0 +1,4 @@
+☕ Java DSA MasteryWelcome to my repository for Data Structures and Algorithms in Java. This is a collection of my lecture notes, homework, and LeetCode solutions as I build my coding foundation.📂 Repository StructureFolderDescriptionbasics/Core Java concepts (loops, functions, and logic).array/Array-based algorithms and logic (searching, sorting).leetcode/Solutions to problems from LeetCode.Homework/Practice problems and college assignments.bin/Compiled binary files (Java bytecode).🚀 Getting StartedTo run any of these files locally, ensure you have the JDK installed.Clone the repo:Bashgit clone https://github.com/Caktusuki/Java_DSA.git
+Compile and Run:Bashjavac basics/Lec2.java
+java basics/Lec2
+🛠️ Tech Stack & ToolsLanguage: Java 17+Editor: VS CodeVersion Control: Git & GitHub📈 Learning Goals[ ] Master Linked Lists and Trees.[ ] Reach 100+ solved problems in the leetcode/ folder.[ ] Complete the "Dot" to-do application logic.
