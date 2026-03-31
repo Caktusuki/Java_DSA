@@ -1,25 +1,27 @@
 # ☕ Java DSA Mastery
 
-Welcome to my personal repository for **Data Structures and Algorithms**. This is where I document my coding journey, solve LeetCode problems, and store my college assignments.
+Welcome to my personal Data Structures and Algorithms repository! This is a structured collection of my Java journey—from college assignments to competitive programming.
 
 ---
 
 ## 📂 Project Structure
 
-| Folder | Description |
-| :--- | :--- |
-| **`basics/`** | Core Java fundamentals (Loops, Functions, Logic). |
-| **`array/`** | Array-based algorithms and logic implementations. |
-| **`leetcode/`** | Solutions to problems from LeetCode. |
-| **`Homework/`** | Practice problems and college DSA assignments. |
-| **`bin/`** | Compiled Java bytecode files. |
+### 🧠 LeetCode Solutions
+Problems are categorized by their difficulty level:
+* 🟢 **Easy**: Foundational logic and simple algorithms.
+* 🟡 **Medium**: Intermediate data structures and optimization.
+* 🔴 **Hard**: Advanced algorithms and complex problem-solving.
+
+### 📚 Coursework & Homework
+* **`Basics/`**: Learning the core syntax, loops, and functions.
+* **`Array/`**: Dedicated practice for array manipulations and searching/sorting.
+* **`Homework/`**: Solutions to specific college lecture tasks (Lec6, Lec8, Lec10, etc.) and custom projects like `Turnbased.java`.
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Quick Start
+To compile and run any logic file (e.g., Question 1 from Homework):
 
-To run any of the Java files on your machine:
-
-1. **Clone the repository**:
+1. **Navigate to the directory**:
    ```bash
-   git clone [https://github.com/Cactusuki/Java_DSA.git](https://github.com/Cactusuki/Java_DSA.git)
+   cd Homework
