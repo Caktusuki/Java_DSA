@@ -1,4 +1,4 @@
-package homework;
+package Homework;
 
 public class Lec6HW {
 

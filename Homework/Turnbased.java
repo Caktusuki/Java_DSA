@@ -1,4 +1,4 @@
-package homework;
+package Homework;
 
 public class Turnbased {
     public static int[] turn(int[] arr, int n) {

@@ -1,5 +1,5 @@
 
-package homework;
+package Homework;
 
 import java.util.Scanner;
 
